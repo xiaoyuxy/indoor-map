@@ -3,24 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.1_b1615847011c87d68b2376636837b5acb720be40/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.1_81794b0997d7152413525cfc3f10343fc34e99bd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -30,30 +12,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.1_f7de802d9e6f05fe53f1b4fb7bec35ff67610979/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="7d67042688d34474a82fe4ef4c6514ef471377ef">
         <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.1_561e8626e442042d0b2dc99a798686040f30d13d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="12032271e6be735e811ad529cb08ff066c381640">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.1_4b207ef85ac45112b188d5350b13f34f4ba64605/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -70,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="89134935e688fd30c06ddec84c5c89affce627da">
+        sha1="77ca9bbe3037674edab9d80fa6c780710e74e9dc">
         <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3f3d254453fbac75e8b8bb8ef575a1afbc6b4cb0/classes.dex" />
     </item>
     <item
@@ -84,39 +48,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_9ff779978094f6e0348ca9de9afdd4fc15cdd589/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.1_d34375c561af5e17b6eca3475ad769351026ab24/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0a5d5553c308643a9022f15513ebdd59e9c78d82">
         <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.1_ce5580161e86c03d25eea8926c6c8faceb7f8e7a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.1_63a6509f50a16e3c9a64bba91df4bfcf37278d17/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -174,21 +111,246 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.1_6a0a360a49ca19b3a7c1cb9024b7c3dfe7fe78ee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="b136ac09f209c1d91fec7db8518e33d4373c8f39">
         <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.1_1d2a265e3e44b94def2d3262917b6768227ae709/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_92f086c0dc06ca26873e74156650f13c0d67dd1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.1_d95e511ca9ce2920c3be5718fe8328314a649836/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.1_b5d46038a97b6555afcdc4081e35075352b87371/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.1_2089166e5c03591b9c9e88984bc4f3a1523c0eaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.1_1ccd7aea482e9b4bfff6c46318c85f5e0da0006b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.1_7f0f438627a5be3fc0b4d7bc224f67864db8c370/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e684205744f814a73b7752545e0661330415c9e">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.1_e55aa0f711de451107b493f8d489c21b98f310ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.1_25f9e848533a7e35f2f6b06a81b164a69994faeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.1_06c487e85a737cdeb9e0347bfe519819cd917f71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.1_bbd92d0c4b5640857746b9dd8722e57b30212df9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.1_08564eacb88a16099f5539d62628f00c610c26d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.1_ee8920238c397d232baa6d8b5afae3d250d35aaf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2d63af15aaad7008d83baabd1624481436e5ebae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.1_a32f76e394eb3313ae4750a6766bfee1a36f344a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.1_a898effd2537f2bba2afb64004f0ad3f6aedd677/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.1_68de2a1850dba18d7c2feb4fb031f54ad958ac07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.1_1a6748d8ef53a7ad3380e00b658b02ed8bdc625e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.1_458dc9f6f8a168551db9cc6a9acee8d93550b170/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab8343c3aadefce37313ceadd8bc4db1993f2ff0">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.1_b1615847011c87d68b2376636837b5acb720be40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6818f5804ca0b5eb089d902458faea4179eca1d">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.1_81794b0997d7152413525cfc3f10343fc34e99bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b215e312bdc1ee7bfda31674eab5df8bad45c014">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.1_f7de802d9e6f05fe53f1b4fb7bec35ff67610979/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12032271e6be735e811ad529cb08ff066c381640">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.1_4b207ef85ac45112b188d5350b13f34f4ba64605/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.2.0_9ff779978094f6e0348ca9de9afdd4fc15cdd589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b42a61cd5924f28e95894e859e6abe57847e2f3">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.1_d34375c561af5e17b6eca3475ad769351026ab24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c3c7f923e1df76640acb3a24823600f034a5d226">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.1_63a6509f50a16e3c9a64bba91df4bfcf37278d17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a1aa1dd9917e887bfe732cc5e561ae6ae8f9a84a">
+        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.1_6a0a360a49ca19b3a7c1cb9024b7c3dfe7fe78ee/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -207,15 +369,6 @@
         revision="25.0.2"
         sha1="bb115a110992b254f767f337da233071f6f940b8">
         <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.1_a09cb92375dacd7d95ddd7a16be9bce19f93dee9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.2.0_92f086c0dc06ca26873e74156650f13c0d67dd1d/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -264,15 +417,6 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.1_d95e511ca9ce2920c3be5718fe8328314a649836/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
@@ -282,30 +426,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b2349ddfe04831042844cbf055e5a072da37ddf8">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.1_b5d46038a97b6555afcdc4081e35075352b87371/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="4693235cde045245fad7ced424faae2fd2c913ff">
+        sha1="76f230177b734b5baffd2e004e9046ee459e11b3">
         <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dcfa9dda4830b2e01c49f30ef0bd28a037602e2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6f233cb35a6ea92364130d2d48791c461ec65983">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.1_2089166e5c03591b9c9e88984bc4f3a1523c0eaf/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -315,15 +441,6 @@
         revision="25.0.2"
         sha1="bfd85a88cf976eb2c54507cc914d8e8914c2f71e">
         <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.1_1ccb56b804a94f81eda2112f09ea4936152680f8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="825c2e97a00df4df5b0f3081faa4fd6280cd7c72">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.1_1ccd7aea482e9b4bfff6c46318c85f5e0da0006b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -354,57 +471,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da5c606c36276a12a356e351882044c6b4b9e8d4">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.1_7f0f438627a5be3fc0b4d7bc224f67864db8c370/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4e684205744f814a73b7752545e0661330415c9e">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.1_e55aa0f711de451107b493f8d489c21b98f310ec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="6c74dab42788b458960618238f338d324b6f0656">
         <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.1_60369408343be65bb7f55f16940ce366c9bd8ef0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d81a3b0a16f48b4456f442552b62f4b1a472ce24">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.1_25f9e848533a7e35f2f6b06a81b164a69994faeb/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.1_06c487e85a737cdeb9e0347bfe519819cd917f71/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.1_bbd92d0c4b5640857746b9dd8722e57b30212df9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -435,66 +507,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5ee29abfc804ebd51d65a4bde424c0ee74363939">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.1_08564eacb88a16099f5539d62628f00c610c26d3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c7ba26433d9e9f4429d83ff65ad79bfc801dc00a">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.1_ee8920238c397d232baa6d8b5afae3d250d35aaf/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="bb004ea36f8802bad30000e286c177691740a322">
         <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.1_456e32652e7dcffd55248b30705af37a55c509ba/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_2d63af15aaad7008d83baabd1624481436e5ebae/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.1_a32f76e394eb3313ae4750a6766bfee1a36f344a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ec7d3099b4e3cf23230c78acaae438f3371e1c19">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.1_a898effd2537f2bba2afb64004f0ad3f6aedd677/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0bb2f0934fa55799508ba58ffc9ba579b35744b8">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.1_68de2a1850dba18d7c2feb4fb031f54ad958ac07/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -507,30 +525,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a7ffe939ffd830b5d4052f3c1c4c235923790ce">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.1_1a6748d8ef53a7ad3380e00b658b02ed8bdc625e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.2.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="cfa47e1b140562d47bc670629d07e209cd8b02c4">
         <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.1_626f889051ca8fba29175b4d79377a00c7262e63/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.2.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d395c5142f474891c7750f13b6a85d14682f166b">
-        <dex dex="/Users/xiaoyuliang/courses/277/Map/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.1_458dc9f6f8a168551db9cc6a9acee8d93550b170/classes.dex" />
     </item>
     <item
         is-multidex="true"
