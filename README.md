@@ -11,7 +11,7 @@ This application including:
 - 1) one button alert message 
 - 2) Draw one vector indoor map (e.g., building floor map) on top of Google map
 - 3) Sending continuous GPS data and the indoor location information to the network in the background
-- 4)navigation in the indoor map
+- 4) navigation in the indoor map
 
 # Library
 This application uses below library:
